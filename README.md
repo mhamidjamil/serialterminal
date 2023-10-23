@@ -9,8 +9,9 @@ Have a look [serial.huhn.me](https://serial.huhn.me)
 git clone https://github.com/spacehuhntech/serial
 cd serial
 npm install
-npm run
+npm start
 ```
+You can access web page by [this](http://localhost:6679/) link
 
 ## License 
 
